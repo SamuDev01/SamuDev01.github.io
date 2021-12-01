@@ -62087,7 +62087,7 @@
                     o = b
                     s = p
                 } while (true) switch (s) {
-                    case 0: f = "https://69be-151-97-114-189.ngrok.io/athletes/athletelist/" + A.a(m.a, "_authenticatedUser").b
+                    case 0: f = "http://localhost:3002/athletes/athletelist/" + A.a(m.a, "_authenticatedUser").b
                         p = 4
                         A.ca("_authenticatedUser.token")
                         A.ca(A.a(m.a, "_authenticatedUser").b)
@@ -62136,7 +62136,7 @@
                     o = a0
                     s = p
                 } while (true) switch (s) {
-                    case 0: g = "https://d38c-151-97-114-189.ngrok.io/exercises/testnewapp/" + a + "/" + b + "/" + c + "/" + d
+                    case 0: g = "http://localhost:3004/exercises/testnewapp/" + a + "/" + b + "/" + c + "/" + d
                         p = 4
                         s = 7
                         return A.a4(A.axL(A.lj(g, 0, null)), $async$wF)
@@ -62187,7 +62187,7 @@
                     o = a0
                     s = p
                 } while (true) switch (s) {
-                    case 0: e = "https://69be-151-97-114-189.ngrok.io/athletes/athletes/signin"
+                    case 0: e = "http://localhost:3004/athletes/athletes/signin"
                         A.ca(a + " " + b)
                         p = 4
                         i = A.lj(e, 0, null)
