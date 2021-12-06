@@ -44231,7 +44231,7 @@ A.jW.prototype={}
 A.WE.prototype={
 uJ(){var s=0,r=A.Y(t.MP),q,p=2,o,n=[],m=this,l,k,j,i,h,g,f,e
 var $async$uJ=A.U(function(a,b){if(a===1){o=b
-s=p}while(true)switch(s){case 0:f="http://172.18.19.12:3004/exercises/allatlhete/"+A.a(m.a,"_authenticatedUser").b
+s=p}while(true)switch(s){case 0:f="http://localhost:3004/exercises/allatlhete/"+A.a(m.a,"_authenticatedUser").b
 p=4
 A.c4("_authenticatedUser.token")
 A.c4(A.a(m.a,"_authenticatedUser").b)
@@ -44269,7 +44269,7 @@ case 2:return A.V(o,r)}})
 return A.X($async$uJ,r)},
 wP(a,b,c,d){var s=0,r=A.Y(t.z),q,p=2,o,n=[],m,l,k,j,i,h,g,f
 var $async$wP=A.U(function(e,a0){if(e===1){o=a0
-s=p}while(true)switch(s){case 0:g="http://172.18.19.12:3004/exercises/paramsuser/"+a+"/"+b+"/"+c+"/"+d
+s=p}while(true)switch(s){case 0:g="http://localhost:3004/exercises/paramsuser/"+a+"/"+b+"/"+c+"/"+d
 A.c4(g)
 p=4
 s=7
@@ -44311,7 +44311,7 @@ A.WK.prototype={
 t8(a,b){return this.Tb(a,b)},
 Tb(a,b){var s=0,r=A.Y(t.z),q,p=2,o,n=[],m,l,k,j,i,h,g,f,e,d
 var $async$t8=A.U(function(c,a0){if(c===1){o=a0
-s=p}while(true)switch(s){case 0:e="http://172.18.19.12:3004/exercises/signin"
+s=p}while(true)switch(s){case 0:e="http://localhost:3004/exercises/signin"
 A.c4(a+" "+b)
 p=4
 i=A.lk(e,0,null)
