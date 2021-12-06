@@ -43152,7 +43152,7 @@ A.Vb.prototype={
 rD(a,b){return this.RU(a,b)},
 RU(a,b){var s=0,r=A.a8(t.z),q,p=2,o,n=[],m,l,k,j,i,h,g,f,e,d
 var $async$rD=A.a2(function(c,a0){if(c===1){o=a0
-s=p}while(true)switch(s){case 0:e="http://localhost:3002/athletes/athletes/signin"
+s=p}while(true)switch(s){case 0:e="http://localhost:3004/exercises/signin"
 p=4
 i=A.p6(e,0,null)
 h=t.N
