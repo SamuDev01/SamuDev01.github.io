@@ -60152,7 +60152,7 @@ a_m(){var s=this,r=1e6,q=s.cx=new A.dy(Date.now(),!1)
 s.cy=A.VW(q)*60+A.VX(q)
 s.aK(new A.a4d(s))
 A.i9("Duration in seconds ----> "+B.e.bP(s.gka(s).a,r))
-if(B.e.bP(s.gka(s).a,r)===0){A.i9("Duration in seconds2 ----> "+B.e.bP(s.gka(s).a,r))
+if(B.e.bP(s.gka(s).a,r)<=0){A.i9("Duration in seconds2 ----> "+B.e.bP(s.gka(s).a,r))
 s.r.ay(0)
 s.u0()}},
 LM(){this.r=A.pd(A.aI(0,0,0,1),new A.a4u(this))},
@@ -60255,7 +60255,7 @@ s.y=s.gka(s)},
 $S:0}
 A.a4d.prototype={
 $0(){var s=this.a
-s.x=A.aI(0,0,0,1100-A.a(s.cy,"current"))},
+s.x=A.aI(0,0,0,3600-A.a(s.cy,"current"))},
 $S:0}
 A.a4u.prototype={
 $1(a){return A.c4([this.a.a_m()],t.H)},
