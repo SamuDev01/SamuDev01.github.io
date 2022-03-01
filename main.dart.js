@@ -45962,7 +45962,7 @@ r.scw(0,!A.c7(s))}this.bO()}}
 A.Yo.prototype={
 vM(){var s=0,r=A.P(t.MP),q,p=2,o,n=[],m=this,l,k,j,i,h,g,f
 var $async$vM=A.L(function(a,b){if(a===1){o=b
-s=p}while(true)switch(s){case 0:g="http://87.248.32.5:3337/webapp/allathlete/"+A.a(m.a,"_authenticatedUser").b
+s=p}while(true)switch(s){case 0:g="https://api.desmotec.com/webapp/allathlete/"+A.a(m.a,"_authenticatedUser").b
 p=4
 s=7
 return A.V(A.ar9(A.hW(g,0,null)),$async$vM)
@@ -45995,7 +45995,7 @@ return A.O($async$vM,r)},
 nA(a,b,c){return this.UQ(a,b,c)},
 UQ(a,b,a0){var s=0,r=A.P(t.z),q,p=2,o,n=[],m,l,k,j,i,h,g,f,e,d,c
 var $async$nA=A.L(function(a1,a2){if(a1===1){o=a2
-s=p}while(true)switch(s){case 0:e="http://87.248.32.5:3337/webapp/singleAthlete/"+a
+s=p}while(true)switch(s){case 0:e="https://api.desmotec.com/webapp/singleAthlete/"+a
 d="http://87.248.32.5:3336/email/sendmail"
 p=4
 s=7
@@ -46027,7 +46027,7 @@ case 2:return A.M(o,r)}})
 return A.O($async$nA,r)},
 n7(a,b,c,d){var s=0,r=A.P(t.z),q,p=2,o,n=[],m,l,k,j,i,h,g
 var $async$n7=A.L(function(e,f){if(e===1){o=f
-s=p}while(true)switch(s){case 0:h="http://87.248.32.5:3337/webapp/paramsuser/"+a+"/"+b+"/"+c+"/"+d
+s=p}while(true)switch(s){case 0:h="https://api.desmotec.com/webapp/paramsuser/"+a+"/"+b+"/"+c+"/"+d
 p=4
 s=7
 return A.V(A.ar9(A.hW(h,0,null)),$async$n7)
@@ -46063,7 +46063,7 @@ A.Yu.prototype={
 tK(a,b){return this.Uh(a,b)},
 Uh(a,b){var s=0,r=A.P(t.z),q=1,p,o=[],n,m,l,k,j,i,h,g
 var $async$tK=A.L(function(c,d){if(c===1){p=d
-s=q}while(true)switch(s){case 0:h="http://87.248.32.5:3337/webapp/athlete/"+b
+s=q}while(true)switch(s){case 0:h="https://api.desmotec.com/webapp/athlete/"+b
 q=3
 s=6
 return A.V(A.ar9(A.hW(h,0,null)),$async$tK)
@@ -46093,7 +46093,7 @@ return A.O($async$tK,r)},
 u4(a,b,c){return this.Vk(a,b,!1)},
 Vk(a,b,c){var s=0,r=A.P(t.z),q,p=2,o,n=[],m,l,k,j,i,h,g,f,e,d
 var $async$u4=A.L(function(a0,a1){if(a0===1){o=a1
-s=p}while(true)switch(s){case 0:e="http://87.248.32.5:3337/webapp/signin"
+s=p}while(true)switch(s){case 0:e="https://api.desmotec.com/webapp/signin"
 A.dl(a+" "+b)
 p=4
 A.dl(B.c.a2("THIS IS URL --> ",e))
