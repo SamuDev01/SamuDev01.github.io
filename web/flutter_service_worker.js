@@ -10,10 +10,6 @@ const RESOURCES = {
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/NOTICES": "6f856552c1a6a46296d5b7551202f352",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
-"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
-"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
-"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/favicon/android-icon-144x144.png": "570c9b7e1ff07bba017959cff285b8e4",
 "icons/favicon/android-icon-192x192.png": "c3cbe9fe2e83c9dd5b4c3d4b8ee60efd",
@@ -45,10 +41,10 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "1347f5a454ec9c11059f73e8124c9a6d",
-"/": "1347f5a454ec9c11059f73e8124c9a6d",
-"main.dart.js": "4354742bcb303bb64e711a5e842b1f4f",
-"manifest.json": "d132d19290bd1f887bc6186800ce2e0d",
+"index.html": "07fbc4d07c4d7a722ea68a30044ef12a",
+"/": "07fbc4d07c4d7a722ea68a30044ef12a",
+"main.dart.js": "3a509e95ded897b79d8553ddf387c638",
+"manifest.json": "39a16bfebc1d31ba1da170a94f25ca4d",
 "version.json": "b557acc2fac715de8d64feeef31c33bf"
 };
 
