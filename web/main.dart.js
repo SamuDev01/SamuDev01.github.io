@@ -46898,7 +46898,7 @@ r.scC(0,!A.ck(s))}this.bR()}}
 A.Z0.prototype={
 qO(){var s=0,r=A.O(t.MP),q,p=2,o,n=[],m=this,l,k,j,i,h,g,f
 var $async$qO=A.K(function(a,b){if(a===1){o=b
-s=p}while(true)switch(s){case 0:g="https://api.desmotec.com/webapp/allathlete/"+A.a(m.a,"_authenticatedUser").b
+s=p}while(true)switch(s){case 0:g="http://87.248.32.5:3337/webapp/allathlete/"+A.a(m.a,"_authenticatedUser").b
 p=4
 s=7
 return A.S(A.asw(A.fN(g,0,null)),$async$qO)
@@ -46931,7 +46931,7 @@ return A.N($async$qO,r)},
 nA(a,b,c){return this.Vb(a,b,c)},
 Vb(a,b,a0){var s=0,r=A.O(t.z),q,p=2,o,n=[],m,l,k,j,i,h,g,f,e,d,c
 var $async$nA=A.K(function(a1,a2){if(a1===1){o=a2
-s=p}while(true)switch(s){case 0:e="https://api.desmotec.com/webapp/singleAthlete/"+a
+s=p}while(true)switch(s){case 0:e="http://87.248.32.5:3337/webapp/singleAthlete/"+a
 d="https://api.desmotec.com/email/sendmail"
 p=4
 s=7
@@ -46963,7 +46963,7 @@ case 2:return A.L(o,r)}})
 return A.N($async$nA,r)},
 n7(a,b,c,d,e){var s=0,r=A.O(t.z),q,p=2,o,n=[],m,l,k,j,i,h,g
 var $async$n7=A.K(function(f,a0){if(f===1){o=a0
-s=p}while(true)switch(s){case 0:h="https://api.desmotec.com/webapp/paramsuser/"+a+"/"+b+"/"+c+"/"+d+"/"+e
+s=p}while(true)switch(s){case 0:h="http://87.248.32.5:3337/webapp/paramsuser/"+a+"/"+b+"/"+c+"/"+d+"/"+e
 p=4
 s=7
 return A.S(A.asw(A.fN(h,0,null)),$async$n7)
@@ -46999,7 +46999,7 @@ A.Hf.prototype={
 pE(a,b){return this.UD(a,b)},
 UD(a,b){var s=0,r=A.O(t.z),q=1,p,o=[],n,m,l,k,j,i,h,g
 var $async$pE=A.K(function(c,d){if(c===1){p=d
-s=q}while(true)switch(s){case 0:h="https://api.desmotec.com/webapp/athlete/"+b
+s=q}while(true)switch(s){case 0:h="http://87.248.32.5:3337/webapp/athlete/"+b
 q=3
 s=6
 return A.S(A.asw(A.fN(h,0,null)),$async$pE)
@@ -47030,7 +47030,7 @@ tN(a){return this.Uk(a)},
 Uk(a){var s=0,r=A.O(t.z),q,p=2,o,n=[],m,l,k,j,i,h,g,f,e,d,c
 var $async$tN=A.K(function(b,a0){if(b===1){o=a0
 s=p}while(true)switch(s){case 0:e={}
-d="https://api.desmotec.com/webapp/centersforuser"
+d="http://87.248.32.5:3337/webapp/centersforuser"
 p=4
 i=A.fN(d,0,null)
 h=t.N
@@ -47066,7 +47066,7 @@ case 2:return A.L(o,r)}})
 return A.N($async$tN,r)},
 pR(a,b,c,a0){var s=0,r=A.O(t.z),q,p=2,o,n=[],m,l,k,j,i,h,g,f,e,d
 var $async$pR=A.K(function(a1,a2){if(a1===1){o=a2
-s=p}while(true)switch(s){case 0:e="https://api.desmotec.com/webapp/signin"
+s=p}while(true)switch(s){case 0:e="http://87.248.32.5:3337/webapp/signin"
 A.cD(a+" "+b)
 m=A.b1("jsonRequest")
 h=t.N
@@ -86300,7 +86300,7 @@ $.XL=null
 $.XS=null
 $.ama=null
 $.asC=function(){var s=t.N
-return A.b([A.ap(["title","Servizi YouCare","description","All'interno del protocollo di valutazione e Test per il Return to Play dopo \u201cChirurgia di ginocchio\u201d e \u201cin generale di Arto inferiore\u201d...","link","https://www.facebook.com/YouCareMed/photos/a.425646779237524/485995533202648","image","assets/images/image-6.PNG"],s,s),A.ap(["title","WORKSHOP GRATUITO!","description","Vieni a trovarci a Biella, presso il club multisportivo I Faggi - Sport, Wellness & friends. Ti offriamo un WORKSHOP GRATUITO, dove potrai provare le attrezzature...","link","https://www.facebook.com/desmotectraining/photos/4635461126493609","image","assets/images/image-7.PNG"],s,s),A.ap(["title","#traininglikeapro","description","Here you can see how max power test was used to compare the values of concentric and eccentric contraction before and at the end of the season....","link","https://www.instagram.com/p/CakZctLMUh-/","image","assets/images/image-8.PNG"],s,s),A.ap(["title","E.Board","description","E.Board is ideal for physiotherapeutic and sport application because it is a complete evaluation platform for evaluation and training","link","https://www.instagram.com/p/CZ1d4qzs30j/","image","assets/images/image-9.PNG"],s,s)],A.a5("p<au<i,i>>"))}()
+return A.b([A.ap(["title","Servizi YouCare","description","All'interno del protocollo di valutazione e Test per il Return to Play dopo \u201cChirurgia di ginocchio\u201d e \u201cin generale di Arto inferiore\u201d...","link","https://www.facebook.com/YouCareMed/photos/a.425646779237524/485995533202648","image","assets/images/image-6.PNG"],s,s),A.ap(["title","WORKSHOP FREE!","description","Vieni a trovarci a Biella, presso il club multisportivo I Faggi - Sport, Wellness & friends. Ti offriamo un WORKSHOP GRATUITO...","link","https://www.facebook.com/desmotectraining/photos/4635461126493609","image","assets/images/image-7.PNG"],s,s),A.ap(["title","#traininglikeapro","description","Here you can see how max power test was used to compare the values of concentric and eccentric contraction before and...","link","https://www.instagram.com/p/CakZctLMUh-/","image","assets/images/image-8.PNG"],s,s),A.ap(["title","E.Board","description","E.Board is ideal for physiotherapeutic and sport application because it is a complete evaluation platform for evaluation and training","link","https://www.instagram.com/p/CZ1d4qzs30j/","image","assets/images/image-9.PNG"],s,s)],A.a5("p<au<i,i>>"))}()
 $.aLW=A.aS8()
 $.auv=0
 $.JF=A.b([],A.a5("p<aVQ>"))
