@@ -45763,12 +45763,10 @@ s=s.i("a9<1,h4>")
 return A.P(o,A.cz(A.b([A.d0(new A.xA(new A.a0m(200,1,!0,!0,B.Q,new A.aiS(this)),r,new A.a0l(new A.aK(new A.a5(p,t.wC),t.Fe)),q,o),14),A.d0(A.bF(A.ak(new A.a9($.asJ,new A.aiT(this),s),!0,s.i("aV.E")),B.p,B.ai,B.n,o),1)],t.p),B.p,B.w,B.n),B.h,o,o,o,o,o,o,o,o,o,n)},
 agq(a,b,c,d,e,f){var s=e.a/2,r=t.p
 return A.bF(A.b([A.cz(A.b([A.ari(d.h(0,"home_page_last_sessions"),B.kq,s,new A.aiU(f,b,a,c)),A.ari(d.h(0,"home_page_last_user"),B.kp,s,new A.aiV(a,b,c))],r),B.p,B.ai,B.n),new A.d5(new A.R(30,0,30,0),A.cz(A.b([this.J5(s),A.awq(null,d.h(0,"message1"),s)],r),B.p,B.ai,B.n),null)],r),B.c_,B.w,B.n,null)},
-ak5(a,b,c,d,e,f){var s,r,q=null,p=e.a,o=A.ari(d.h(0,"home_page_last_sessions"),B.kq,p,new A.aiW(f,b,a,c)),n=A.ari(d.h(0,"home_page_last_user"),B.kp,p,new A.aiX(a,b,c)),m=this.J5(p)
-p/=2
-s=t.p
-r=A.b([A.awq(q,d.h(0,"message1"),p)],s)
-if(f.y)r.push(A.awq(new A.aiY(c),A.d(d.h(0,"messageCenter"))+" "+A.a(f.x,"_centerOfUser").d,p))
-return A.bF(A.b([o,n,m,A.P(q,A.cz(r,B.bZ,B.cd,B.n),B.h,q,q,q,q,q,q,new A.R(30,0,30,0),q,q,q)],s),B.c_,B.w,B.n,q)},
+ak5(a,b,c,d,e,f){var s=null,r=e.a,q=A.ari(d.h(0,"home_page_last_sessions"),B.kq,r,new A.aiW(f,b,a,c)),p=A.ari(d.h(0,"home_page_last_user"),B.kp,r,new A.aiX(a,b,c)),o=this.J5(r),n=d.h(0,"message1"),m=t.p
+n=A.b([A.awq(s,n,f.y?r/2:r)],m)
+if(f.y)n.push(A.awq(new A.aiY(c),A.d(d.h(0,"messageCenter"))+" "+A.a(f.x,"_centerOfUser").d,r/2))
+return A.bF(A.b([q,p,o,A.P(s,A.cz(n,B.bZ,B.cd,B.n),B.h,s,s,s,s,s,s,new A.R(30,0,30,0),s,s,s)],m),B.c_,B.w,B.n,s)},
 I(a,b){var s=A.b6(b,!1,t.C),r=A.b6(b,!1,t.e),q=A.b6(b,!1,t.R),p=A.b6(b,!1,t.sB),o=t.w,n=b.K(o).f.a,m=A.awD(n.a),l=A.aBs(b,"home_page",q,r,p)
 return A.bF(A.b([m,l,b.K(o).f.a.a<800?this.ak5(s,r,b,p.geE(),n,q):this.agq(s,r,b,p.geE(),n,q)],t.p),B.c_,B.w,B.n,null)}}
 A.aiS.prototype={
