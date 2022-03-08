@@ -2,7 +2,7 @@
     "name": "Desmotec",
     "short_name": "Desmotec",
     "start_url": ".",
-    "display": "fullscreen",
+    "display": "standalone",
     "background_color": "#445566",
     "theme_color": "#445566",
     "description": "App Trainer Desmotec",
