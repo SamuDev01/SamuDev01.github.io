@@ -47624,8 +47624,8 @@ case 2:l=b
 q.r=l
 p=A.cs(J.a8(A.a(l,"prefs").a,"view_popup"))
 l=A.aI4()===$.axG()&&p!=="installed"
-if(l){q.db=!0
-A.a(q.r,"prefs").wk("String","view_popup","installed")}l=A.a(q.r,"prefs").a
+if(l)q.db=!0
+l=A.a(q.r,"prefs").a
 o=J.ar(l)
 n=t.kc.a(o.h(l,"credential"))
 if(n!=null&&!t.yp.b(n)){m=J.mJ(n,t.N)
@@ -47678,6 +47678,7 @@ return A.D(B.w,A.ce(A.b([s,r,new A.KK(new A.aqI(this.a),p,p,p,A.aDI(p,p,p,p,p,p,
 $S:240}
 A.aqI.prototype={
 $0(){var s=this.a
+A.a(s.r,"prefs").wk("String","view_popup","installed")
 s.db=!1
 s.U(new A.aqH())},
 $S:0}
