@@ -47607,38 +47607,36 @@ case 4:n.toString
 A.xE(new A.ar3(),n,null,!0,t.N)
 case 3:return A.I(null,r)}})
 return A.J($async$pR,r)},
-yb(){var s=0,r=A.K(t.z),q=this,p,o,n,m
+yb(){var s=0,r=A.K(t.z),q=this,p,o,n,m,l
 var $async$yb=A.G(function(a,b){if(a===1)return A.H(b,r)
-while(true)switch(s){case 0:m=q.c
-m.toString
-q.x=A.b5(m,!1,t.R)
-m=q.c
-m.toString
-q.y=A.b5(m,!1,t.C)
-m=q.c
-m.toString
-q.z=A.b5(m,!1,t.e)
+while(true)switch(s){case 0:l=q.c
+l.toString
+q.x=A.b5(l,!1,t.R)
+l=q.c
+l.toString
+q.y=A.b5(l,!1,t.C)
+l=q.c
+l.toString
+q.z=A.b5(l,!1,t.e)
 s=2
 return A.R(A.CS(),$async$yb)
-case 2:m=b
-q.r=m
-m=A.a(m,"prefs").a
-p=J.ar(m)
-o=t.kc.a(p.h(m,"credential"))
-if(o!=null&&!t.yp.b(o)){n=J.mJ(o,t.N)
-o=n.dl(n)
-p.p(m,"credential",o)}m=o==null?null:J.aCE(o)
-t.Xb.a(m)
-if(m!=null&&m[0]!=null){q.f=!0
-q.pR(m[0],m[1])}return A.I(null,r)}})
+case 2:l=b
+q.r=l
+p=A.cs(J.a8(A.a(l,"prefs").a,"view_popup"))
+l=A.aI4()===$.axG()&&p!=="installed"
+if(l){q.db=!0
+A.a(q.r,"prefs").wk("String","view_popup","installed")}l=A.a(q.r,"prefs").a
+o=J.ar(l)
+n=t.kc.a(o.h(l,"credential"))
+if(n!=null&&!t.yp.b(n)){m=J.mJ(n,t.N)
+n=m.dl(m)
+o.p(l,"credential",n)}l=n==null?null:J.aCE(n)
+t.Xb.a(l)
+if(l!=null&&l[0]!=null){q.f=!0
+q.pR(l[0],l[1])}return A.I(null,r)}})
 return A.J($async$yb,r)},
-ao(){var s,r,q=this,p="view_popup"
-q.aG()
-q.yb()
-s=A.cs(J.a8(A.a(q.r,"prefs").a,p))
-r=A.aI4()===$.axG()&&s!=="installed"
-if(r){q.db=!0
-A.a(q.r,"prefs").wk("String",p,"installed")}},
+ao(){this.aG()
+this.yb()},
 H(a,b){var s,r,q,p,o,n,m,l,k,j,i,h=this,g=null,f=4290124056,e="i18nProv"
 h.Q=A.b5(b,!1,t.sB)
 s=t.w
