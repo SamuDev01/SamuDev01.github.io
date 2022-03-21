@@ -47632,10 +47632,13 @@ t.Xb.a(m)
 if(m!=null&&m[0]!=null){q.f=!0
 q.pR(m[0],m[1])}return A.I(null,r)}})
 return A.J($async$yb,r)},
-ao(){var s=this,r="view_popup",q=A.cs(J.a8(A.a(s.r,"prefs").a,r)),p=A.aI4()===$.axG()&&q!=="installed"
-if(p){s.db=!0
-A.a(s.r,"prefs").wk("String",r,"installed")}s.aG()
-s.yb()},
+ao(){var s,r,q=this,p="view_popup"
+q.aG()
+q.yb()
+s=A.cs(J.a8(A.a(q.r,"prefs").a,p))
+r=A.aI4()===$.axG()&&s!=="installed"
+if(r){q.db=!0
+A.a(q.r,"prefs").wk("String",p,"installed")}},
 H(a,b){var s,r,q,p,o,n,m,l,k,j,i,h=this,g=null,f=4290124056,e="i18nProv"
 h.Q=A.b5(b,!1,t.sB)
 s=t.w
