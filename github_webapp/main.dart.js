@@ -48606,7 +48606,7 @@ r.scq(0,!A.cl(s))}this.bx()}}
 A.a00.prototype={
 rC(){var s=0,r=A.K(t.MP),q,p=2,o,n=[],m=this,l,k,j,i,h,g,f
 var $async$rC=A.G(function(a,b){if(a===1){o=b
-s=p}while(true)switch(s){case 0:g="http://87.248.32.5:3337/webapp/allathlete/"+A.a(m.a,"_authenticatedUser").b
+s=p}while(true)switch(s){case 0:g="https://api.desmotec.com/webapp/allathlete/"+A.a(m.a,"_authenticatedUser").b
 p=4
 s=7
 return A.S(A.awD(A.fi(g,0,null)),$async$rC)
@@ -48639,7 +48639,7 @@ return A.J($async$rC,r)},
 o4(a,b,c){return this.Xh(a,b,c)},
 Xh(a,b,a0){var s=0,r=A.K(t.z),q,p=2,o,n=[],m,l,k,j,i,h,g,f,e,d,c
 var $async$o4=A.G(function(a1,a2){if(a1===1){o=a2
-s=p}while(true)switch(s){case 0:e="http://87.248.32.5:3337/webapp/singleAthlete/"+a
+s=p}while(true)switch(s){case 0:e="https://api.desmotec.com/webapp/singleAthlete/"+a
 d="https://api.desmotec.com/email/sendmail"
 p=4
 s=7
@@ -48671,7 +48671,7 @@ case 2:return A.H(o,r)}})
 return A.J($async$o4,r)},
 nD(a,b,c,d,e){var s=0,r=A.K(t.z),q,p=2,o,n=[],m,l,k,j,i,h,g
 var $async$nD=A.G(function(f,a0){if(f===1){o=a0
-s=p}while(true)switch(s){case 0:h="http://87.248.32.5:3337/webapp/paramsuser/"+a+"/"+b+"/"+c+"/"+d+"/"+e
+s=p}while(true)switch(s){case 0:h="https://api.desmotec.com/webapp/paramsuser/"+a+"/"+b+"/"+c+"/"+d+"/"+e
 p=4
 s=7
 return A.S(A.awD(A.fi(h,0,null)),$async$nD)
@@ -48703,7 +48703,7 @@ return A.J($async$nD,r)},
 xn(a,b,c){return this.ajR(a,b,c)},
 ajR(a,b,c){var s=0,r=A.K(t.z),q,p=2,o,n=[],m,l,k,j,i,h,g,f,e,d
 var $async$xn=A.G(function(a0,a1){if(a0===1){o=a1
-s=p}while(true)switch(s){case 0:g="http://87.248.32.5:3337/webapp/createdesmouser/"+b+"/"+a
+s=p}while(true)switch(s){case 0:g="https://api.desmotec.com/webapp/createdesmouser/"+b+"/"+a
 f=null
 e=c.y
 e.toString
@@ -48747,7 +48747,7 @@ return A.J($async$xn,r)},
 zg(a,b,c){return this.ara(a,b,c)},
 ara(a,b,c){var s=0,r=A.K(t.z),q,p=2,o,n=[],m,l,k,j,i,h,g,f,e,d
 var $async$zg=A.G(function(a0,a1){if(a0===1){o=a1
-s=p}while(true)switch(s){case 0:g="http://87.248.32.5:3337/webapp/updatedesmouser/"+c+"/"+a
+s=p}while(true)switch(s){case 0:g="https://api.desmotec.com/webapp/updatedesmouser/"+c+"/"+a
 f=null
 e=b.y
 e.toString
@@ -48795,7 +48795,7 @@ A.II.prototype={
 qk(a,b){return this.WH(a,b)},
 WH(a,b){var s=0,r=A.K(t.z),q=1,p,o=[],n,m,l,k,j,i,h,g
 var $async$qk=A.G(function(c,d){if(c===1){p=d
-s=q}while(true)switch(s){case 0:h="http://87.248.32.5:3337/webapp/athlete/"+b
+s=q}while(true)switch(s){case 0:h="https://api.desmotec.com/webapp/athlete/"+b
 q=3
 s=6
 return A.S(A.awD(A.fi(h,0,null)),$async$qk)
@@ -48826,7 +48826,7 @@ uu(a){return this.Wk(a)},
 Wk(a){var s=0,r=A.K(t.z),q,p=2,o,n=[],m,l,k,j,i,h,g,f,e,d,c
 var $async$uu=A.G(function(b,a0){if(b===1){o=a0
 s=p}while(true)switch(s){case 0:e={}
-d="http://87.248.32.5:3337/webapp/centersforuser"
+d="https://api.desmotec.com/webapp/centersforuser"
 p=4
 i=A.fi(d,0,null)
 h=t.N
@@ -48862,7 +48862,7 @@ case 2:return A.H(o,r)}})
 return A.J($async$uu,r)},
 qv(a,b,c,a0){var s=0,r=A.K(t.z),q,p=2,o,n=[],m,l,k,j,i,h,g,f,e,d
 var $async$qv=A.G(function(a1,a2){if(a1===1){o=a2
-s=p}while(true)switch(s){case 0:h="http://87.248.32.5:3337/webapp/signin"
+s=p}while(true)switch(s){case 0:h="https://api.desmotec.com/webapp/signin"
 g=A.b7("jsonRequest")
 f=t.N
 e=t.z
