@@ -48593,10 +48593,10 @@ p[s]=r.c.aK()
 q.dy[s]=r.d.aK()},
 $S:0}
 A.anj.prototype={
-$3(a,b,c){var s,r=null,q="dropdownPattern",p=this.a,o=p.gkM(),n=A.a(p.z,q).length!==0&&A.a(p.z,q).toLowerCase()!=="all"?3:2
-n=A.aax(new A.ang(p,this.b),n,new A.U(25,0,25,0),!0)
-s=p.e
-return A.aDA(A.aF_(A.aG9(A.b([n,s.length!==0?new A.u1(s,new A.anh(p),r):A.ag("",r,r,r,r,r,r,r)],t.p),o),new A.ani(p)),2)},
+$3(a,b,c){var s=null,r="dropdownPattern",q=this.a,p=q.gkM(),o=A.a(q.db,"screenSize").b,n=A.a(q.z,r).length!==0&&A.a(q.z,r).toLowerCase()!=="all"?3:2
+o=A.D(s,A.aax(new A.ang(q,this.b),n,new A.U(25,0,25,0),!0),B.f,s,s,s,s,o/10*8,s,s,s,s,s)
+n=q.e
+return A.aDA(A.aF_(A.aG9(A.b([o,n.length!==0?new A.u1(n,new A.anh(q),s):A.ag("",s,s,s,s,s,s,s)],t.p),p),new A.ani(q)),2)},
 $C:"$3",
 $R:3,
 $S:152}
