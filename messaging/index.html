@@ -15,7 +15,7 @@
     This is a placeholder for base href that will be replaced by the value of
     the `--base-href` argument provided to `flutter build`.
   -->
-  <base href="/">
+  <base href="/messaging/">
 
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
@@ -35,7 +35,7 @@
 
   <script>
     // The value below is injected by flutter build, do not touch.
-    var serviceWorkerVersion = '2251648341';
+    var serviceWorkerVersion = '3540700449';
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
@@ -52,7 +52,7 @@
       }).then(function (engineInitializer) {
         return engineInitializer.initializeEngine();
       }).then(function (appRunner) {
-        navigator.serviceWorker.register("/messaging/firebase-messaging-sw.js");
+        navigator.serviceWorker.register("/firebase-messaging-sw.js");
         return appRunner.runApp();
       });
     });
