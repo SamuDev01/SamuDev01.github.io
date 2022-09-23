@@ -1,5 +1,6 @@
-importScripts('https://www.gstatic.com/firebasejs/8.2.5/firebase-app.js');
-importScripts('https://www.gstatic.com/firebasejs/8.2.5/firebase-messaging.js');
+
+importScripts('https://www.gstatic.com/firebasejs/8.4.1/firebase-app.js');
+importScripts('https://www.gstatic.com/firebasejs/8.4.1/firebase-messaging.js');
 
    /*Update with yours config*/
   const firebaseConfig = {
@@ -16,7 +17,7 @@ importScripts('https://www.gstatic.com/firebasejs/8.2.5/firebase-messaging.js');
 
   /*messaging.onMessage((payload) => {
   console.log('Message received. ', payload);*/
-/*   messaging.onBackgroundMessage(function(payload) {
+  messaging.onBackgroundMessage(function(payload) {
     console.log('Received background message ', payload);
 
     const notificationTitle = payload.notification.title;
@@ -26,4 +27,4 @@ importScripts('https://www.gstatic.com/firebasejs/8.2.5/firebase-messaging.js');
 
     self.registration.showNotification(notificationTitle,
       notificationOptions);
-  }) */
+  });
