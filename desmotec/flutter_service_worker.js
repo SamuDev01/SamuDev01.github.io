@@ -4,10 +4,10 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "b557acc2fac715de8d64feeef31c33bf",
-"index.html": "3753a324daa593f3d5d7c19a841c8f4b",
-"/": "3753a324daa593f3d5d7c19a841c8f4b",
-"main.dart.js": "e51f24496aed516e91cc8a092b8c46b8",
-"flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
+"index.html": "d352cebbdf53ba657bc4775e3a03ce41",
+"/": "d352cebbdf53ba657bc4775e3a03ce41",
+"main.dart.js": "51d887ec47f93811a2b901b282703409",
+"flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -40,8 +40,8 @@ const RESOURCES = {
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "de7a6353ec3170179406cfafb6c7cb50",
-"assets/AssetManifest.json": "14f3596cfc390b6cca3d66a6e590541e",
-"assets/NOTICES": "60a0ea5312c876bb899e3c28e69d8e28",
+"assets/AssetManifest.json": "97aa447accab2889fc4e49ace79a4a32",
+"assets/NOTICES": "89d46cc071310544d0e17a9b2ea80297",
 "assets/FontManifest.json": "eebfed969469982d0a756367dc6b0844",
 "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_AMS-Regular.ttf": "657a5353a553777e270827bd1630e467",
 "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Script-Regular.ttf": "55d2dcd4778875a53ff09320a85a5296",
@@ -82,12 +82,14 @@ const RESOURCES = {
 "assets/packages/getwidget/icons/wechat.png": "ba10e8b2421bde565e50dfabc202feb7",
 "assets/packages/getwidget/icons/facebook.png": "293dc099a89c74ae34a028b1ecd2c1f0",
 "assets/packages/wakelock_web/assets/no_sleep.js": "7748a45cd593f33280669b29c2c8919a",
-"assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
+"assets/shaders/ink_sparkle.frag": "ac504c5722e6d44862f91bb8e0a30493",
+"assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/assets/images/physiotherapy.png": "06637bddb67205a998bf078a4a27c92d",
 "assets/assets/images/gym_1.png": "0606e42a5dadd7d212b06fb6b71d84b4",
 "assets/assets/images/reformer.png": "2f093f0bb17eeffef54bd3e9130b823a",
 "assets/assets/images/shop.png": "406ce940725197d66d3f6e4c3221fcf4",
 "assets/assets/images/webinar.png": "541f2e6a0d74e7ebbb186905a6d924ea",
+"assets/assets/images/rocket.png": "87074549e1f7167a70ba729ec318bcc8",
 "assets/assets/images/image_sdk.PNG": "52f77893001dc8dee21cde2a56b8bb39",
 "assets/assets/images/machines/vmini.png": "29e13350c47ddf1b35374b0fbd8c45db",
 "assets/assets/images/machines/pl.png": "e7f3c30801c1a35dc99ef34c42cb8444",
@@ -107,10 +109,10 @@ const RESOURCES = {
 "assets/assets/images/image_football.PNG": "3f2f6f3c83a9e24a748b8d3334c5593a",
 "assets/assets/images/catalogue.png": "e04fe8871834c9f12b90e3b3ef83da8e",
 "assets/assets/images/image-5.png": "de97782ae615f3ba36914646cc08f18d",
-"canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
-"canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
-"canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
-"canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e"
+"canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
+"canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
+"canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
+"canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62"
 };
 
 // The application shell files that are downloaded before a service worker can
